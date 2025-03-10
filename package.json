@@ -1,0 +1,21 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "express exercises",
+  "keywords": [
+    "Node",
+    "js",
+    "express"
+  ],
+  "license": "MIT",
+  "author": "UDUKUNDA",
+  "type": "commonjs",
+  "main": "meadowLark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "express3-handlebars": "^0.5.2"
+  }
+}
